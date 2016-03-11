@@ -2,5 +2,10 @@
     "name": "mindplex/core-api",
     "require": {
         "monolog/monolog": "1.0.*"
-    }
+    },
+    "autoload": {
+       "psr-4": {
+           "MindplexCore\\": "src/MindplexCore/"
+	}
+    } 
 }
