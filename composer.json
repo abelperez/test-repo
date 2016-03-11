@@ -1,0 +1,6 @@
+{
+    "name": "mindplex/core-api",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
